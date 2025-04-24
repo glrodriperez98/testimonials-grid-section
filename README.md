@@ -115,12 +115,15 @@ Exploring clamp() and fluid typography for even better responsive text
 
 ### Useful resources
 CSS Tricks - A Complete Guide to Grid
+
 A great reference for understanding everything CSS Grid can do.
 
 MDN Web Docs - :nth-child()
+
 Helped me fine-tune the layout of each testimonial card.
 
 Kevin Powell - Learn CSS Grid the easy way
+
 An amazing video from our favorite front end friend Kevin Powell. He does this exact challenge so it's hard to force yourself not to copy, but he explains 2 ways to manipulate grid for this challenge and the benefits/limitations of them both.
 
 ### Author
